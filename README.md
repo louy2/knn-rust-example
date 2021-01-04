@@ -7,3 +7,11 @@ So I took the code referred to in the post and ran it. Well it ran in over 40 se
 Then I realized I forgot the `--release` flag. I append it. It runs in not even a second. 
 
 How I got distracted by this when I was on that old blog for Hindley-Milner is another question.
+
+## To run
+
+    cargo run --release
+
+## To time
+
+    time cargo run --release
